@@ -18,8 +18,8 @@ printf("Movimento do bispo\n");
 
 do {
 
-printf("direita\n");
-printf("cima\n");
+printf("cima, direita\n");
+
 bispo++;
 
 
